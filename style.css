@@ -121,11 +121,11 @@ body {
     background-color: #eef2ff;
 }
 
-.tabel-data .Kolom-no       {width: 6%;}
-.tabel-data .Kolom-judul    {width: 34%;}
-.tabel-data .Kolom-penulis  {width: 25%;}
-.tabel-data .Kolom-tahun    {width: 10%;}
-.tabel-data .Kolom-kategori {width: 25%;}
+.tabel-data .kolom-no       {width: 6%;}
+.tabel-data .kolom-judul    {width: 34%;}
+.tabel-data .kolom-penulis  {width: 25%;}
+.tabel-data .kolom-tahun    {width: 10%;}
+.tabel-data .kolom-kategori {width: 25%;}
 
 /* 5. Footer */
 .kaki {
